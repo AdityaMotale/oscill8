@@ -19,7 +19,6 @@
               nasm
               gcc.libc
               glibc.static
-              linuxPackages.perf
             ];
 
             shellHook = ''
